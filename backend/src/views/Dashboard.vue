@@ -1,8 +1,8 @@
 <template>
-    <router-view></router-view>
+    <h1 class="bg-white">Dashboard</h1>
 </template>
 
-<script setup>
+<script>
 
 </script>
 
